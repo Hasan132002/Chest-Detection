@@ -1,0 +1,4 @@
+0 Healthy
+1 Covid-19
+2 Bacteria
+3 Viral
